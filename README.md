@@ -5,4 +5,4 @@ My **solutions** for ["The C Programming Language"](https://en.wikipedia.org/wik
 * The programs are compiled on Arch Linux on GCC 10.2.0 by the following flags 
 '''
 gcc -std=c99 -pipe
-,,,
+'''
